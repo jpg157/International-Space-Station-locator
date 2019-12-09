@@ -1,0 +1,5 @@
+longitude = info['iss_position']['longitude']
+latitude = info['iss_position']['latitude']
+
+print(longitude)
+print(latitude)
