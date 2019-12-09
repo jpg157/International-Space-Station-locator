@@ -1,0 +1,4 @@
+x,y = m(longitude, latitude)
+m.plot(x, y, 'ro', markersize=12)
+
+plt.show()
